@@ -1,1 +1,1 @@
-The project show analysis and satistics of data which helps increase engagement on social media
+The project shows data analysis and visualisation.With further improvements it can be implemented to help individuals to increase their engagement on social media.Further it show the catagory which are most usefull for advertising and branding for a company.
